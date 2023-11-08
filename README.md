@@ -1,8 +1,6 @@
 # My First API
 
 <html>
-<head>
-<title>API</title>
-</head>
+<br>
 <p>Random user generator API</p>
 </html>
