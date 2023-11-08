@@ -1,3 +1,3 @@
 import requests
-requests.get("https://andomuser.me/api/")
+requests.get("https://randomuser.me/api/")
 reponse.text
